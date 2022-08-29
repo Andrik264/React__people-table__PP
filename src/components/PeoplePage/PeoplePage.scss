@@ -1,0 +1,17 @@
+.people-page {
+  &__container {
+    padding: 20px 0;
+  }
+
+  &__tools {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+    &__filter {
+      width: 300px;
+      margin-bottom: 5px;
+    }
+
+  }
+}

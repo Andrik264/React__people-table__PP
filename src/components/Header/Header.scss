@@ -1,0 +1,15 @@
+header {
+  background-color: #242424;
+}
+
+.navbar {
+  background-color: inherit;
+
+  &-item {
+    color: #fff;
+  }
+}
+
+.is-active {
+  color: #fff;
+}
